@@ -11,6 +11,9 @@
  framework that identifies root causes of revenue leakage, supports informed decision-making
  through actionable insights, and quantifies the business impact of strategic recommendations.
 
- **AtliQ Grands** (*a hypothetical hotel enterprise group*) owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
+ **AtliQ Grands** (*a hypothetical hotel enterprise group*) owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing their market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
  Insights and recommendations are provided on the following key areas:
+
+ - **Revenue Trend Analysis:**  Evaluation of historical revenue patterns, both by property name and by region, focusing on RevPar and Average Daily Revenue (ADR).
+ - **Bookings Analysis:**  Distribution of bookings across room class, platform, and day type, understanding the reason behind revenue leakage.
