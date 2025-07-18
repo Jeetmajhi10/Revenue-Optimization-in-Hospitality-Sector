@@ -25,4 +25,4 @@ An interactive Power BI dashboard used to analyze and explore the above-mentione
 
 # Data Structure & Initial Checks
 
-
+[Entity Relationship Diagram here]
