@@ -17,3 +17,12 @@
 
  - **Revenue Trend Analysis:**  Evaluation of historical revenue patterns, both by property name and by region, focusing on RevPar and Average Daily Revenue (ADR).
  - **Bookings Analysis:**  Distribution of bookings across room class, platform, and day type, understanding the reason behind revenue leakage.
+ - **Generated vs Realized:**  An evaluation of actual revenue realized by the properties and how deviated it is from the revenue generated.
+ - **What‑If ROI Simulator:**  Models how modest increases in premium bundling, cancellation mitigation, or direct‑booking shifts can recapture millions and improve ROI up to ~2%.
+
+An interactive Power BI dashboard used to analyze and explore the above-mentioned insights can be found here. [link](https://app.powerbi.com/groups/me/reports/0be65715-f1d4-4d39-bb05-89f79e85f4bb/1781d5352c50911cbc29?experience=power-bi)
+
+
+# Data Structure & Initial Checks
+
+
