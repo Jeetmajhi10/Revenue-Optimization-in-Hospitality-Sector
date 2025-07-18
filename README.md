@@ -25,4 +25,4 @@ An interactive Power BI dashboard used to analyze and explore the above-mentione
 
 # Data Structure & Initial Checks
 
-[Entity Relationship Diagram here]
+![Entity Relationship Diagram here](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/0b524d902b77424248b6c9cf77bd99498a859a6c/Screenshot%202025-07-18%20184143.png)
