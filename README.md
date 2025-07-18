@@ -24,5 +24,18 @@ An interactive Power BI dashboard used to analyze and explore the above-mentione
 
 
 # Data Structure & Initial Checks
-
+The company's main database structure, as seen below, consists of four tables:
+- ***dim_data:***  It is the date table (consisting of 92 rows).
+- ***dim_hotels:***  It is the property table summarizing different properties, categories for each property and cities (consisting of 25 rows).
+- ***dim_rooms:***  It is the room class table (such as Standard, Presidential, etc.) (consisting of 4 rows).
+- ***fact_aggregated_bookings:***  Displaying the check-in date for each room and number of successful bookings per check-in date (consisting of 9200 rows).
+- ***fact_bookings:***  The most crucial table in the whole database, containing all details related to bookings, such as booking data, check_in date, check_out date, booking_status, revenue generated, etc.
+- ***Key Measures:***  Containing all the calculated measures used in the project.
+  
 ![Entity Relationship Diagram here](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/0b524d902b77424248b6c9cf77bd99498a859a6c/Screenshot%202025-07-18%20184143.png)
+
+# Executive Summary
+
+### Overview of findings
+
+
