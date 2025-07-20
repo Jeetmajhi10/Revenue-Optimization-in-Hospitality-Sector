@@ -32,6 +32,10 @@ The company's main database structure, as seen below, consists of four tables:
 
 - **Suboptimal Revenue Mix**: Weekends demonstrate higher Average Daily Rates (ADR) and occupancy, yet weekdays drive the bulk of the booking volume. This points to an opportunity to optimize weekday pricing and demand generation.
 
+![Booking analysis](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/9df0c25c0b40625647ff4c67e01ec5ce20be9563/Screenshot%202025-07-20%20172102.png)
+
+- **Cancellation-Driven Revenue Loss**: Over ₹299 Million in potential revenue was lost to cancellations within the 3-month period. A staggering 64% of this loss is attributable to last-minute cancellations, signaling flawed booking policies.
+
 
 
 
