@@ -30,7 +30,7 @@ The company's main database structure, as seen below, consists of four tables:
 
 ### Overview of findings
 
-
+- **Suboptimal Revenue Mix**: Weekends demonstrate higher Average Daily Rates (ADR) and occupancy, yet weekdays drive the bulk of the booking volume. This points to an opportunity to optimize weekday pricing and demand generation.
 
 
 
