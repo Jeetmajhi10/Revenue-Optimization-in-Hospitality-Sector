@@ -30,9 +30,9 @@ The company's main database structure, as seen below, consists of four tables:
 
 ### Overview of findings
 
-- **Suboptimal Revenue Mix**: Weekdays contributed 69.35% of bookings and 1185M in revenue. Weekend bookings, though fewer, showed higher ADR (12,725) and better occupancy (62.6%) than weekdays (55.9%). The hotel operates a high-volume, lower-margin business during the week and transitions to a higher-value, better-utilized model on weekends. This suggests that weekday demand is more price-sensitive and that there is an opportunity to introduce value-driven offerings to boost weekday ADR and occupancy.
+- **Suboptimal Revenue Mix**: Weekdays contributed 69.35% of bookings and 1185M in revenue. Weekend bookings, though fewer, showed higher ADR (12,725) and better occupancy (62.6%) than weekdays (55.9%). The hotel operates a high-volume, lower-margin business during the week and transitions to a higher-value, better-utilized model on weekends. ADR dips have been observed in week 19, week 22, and week 24. This suggests that weekday demand is more price-sensitive and that there is an opportunity to introduce value-driven offerings to boost weekday ADR and occupancy. 
 
-![Booking analysis](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/94d6fb20489855d3ef19c70e5045f279810652be/Screenshot%202025-07-22%20122737.png)
+![line-chart](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/bbd2fbab6b6a4f523e14cf2ed07c27f45ca9fc91/Screenshot%202025-07-22%20164636.png) ![Booking analysis](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/94d6fb20489855d3ef19c70e5045f279810652be/Screenshot%202025-07-22%20122737.png) 
 
 - **Cancellation-Driven Revenue Loss**: Over ₹299 Million in potential revenue was lost to cancellations within the 3-month period. A staggering 64% of this loss is attributable to last-minute cancellations, signaling flawed booking policies.
 
@@ -47,5 +47,13 @@ The company's main database structure, as seen below, consists of four tables:
 - **Property-wise Analysis**: Atliq Exotica and Atliq Palace had the highest total revenue (320M and 304M respectively), with solid RevPAR and stable ADRs. Atliq Blu had the highest occupancy (62.02%) and a low cancellation rate. In contrast, Atliq Seasons had the lowest occupancy (44.62%) and the lowest rating (2.29), indicating poor customer experience and/or demand misalignment.
 
 ![Property](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/f8e9d3860efdc9afa3e34042735a9b2345b9dad0/Screenshot%202025-07-22%20163610.png) ![analysis](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/f94d47dbf8b0a915ce895d81267e17cbe8ee914b/Screenshot%202025-07-22%20163648.png)
+
+# Recommendations 
+
+- **Implement Premium Room Bundling**: Address the underperformance of premium rooms by creating bundled packages that include value-added services like complimentary breakfast, spa credits, late checkout, or airport transfers. A package priced at $500 is projected to generate an additional ₹4.66M in monthly revenue at a 10% adoption rate.
+- **Introduce Dynamic Cancellation Policies**: Mitigate revenue loss from last-minute cancellations by implementing a tiered cancellation policy. This involves introducing non-refundable or partially refundable rates for bookings cancelled within a 72-hour window before check-in. This strategy disincentivizes speculative bookings from low-commitment customers, particularly from OTA channels, and secures revenue that would otherwise be lost. This policy is projected to recover ₹13.56M in monthly revenue at a 10% uptake.
+- **Drive Direct Bookings to Improve Margins**: Reduce dependency on high-commission OTAs by launching a "Book Direct" campaign. This involves offering exclusive perks—such as free Wi-Fi, meal credits, or loyalty points—to guests who book directly through the hotel's website or app. This shifts booking volume from high-cost channels to a zero-commission direct channel, leading to a direct improvement in profit margins for every converted booking. Shifting just 10% of OTA bookings to direct channels is projected to save ₹15.09M in monthly commission fees. 
+
+
 
 
