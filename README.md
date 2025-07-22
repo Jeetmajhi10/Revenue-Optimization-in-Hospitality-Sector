@@ -30,11 +30,14 @@ The company's main database structure, as seen below, consists of four tables:
 
 ### Overview of findings
 
-- **Suboptimal Revenue Mix**: Weekdays contributed 69.35% of bookings and 1185M in revenue. Weekend bookings, though fewer, showed higher ADR (12,725) and better occupancy (62.6%) than weekdays (55.9%). This points to an opportunity to optimize weekday pricing and demand generation.
+- **Suboptimal Revenue Mix**: Weekdays contributed 69.35% of bookings and 1185M in revenue. Weekend bookings, though fewer, showed higher ADR (12,725) and better occupancy (62.6%) than weekdays (55.9%). The hotel operates a high-volume, lower-margin business during the week and transitions to a higher-value, better-utilized model on weekends. This suggests that weekday demand is more price-sensitive and that there is an opportunity to introduce value-driven offerings to boost weekday ADR and occupancy.
 
 ![Booking analysis](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/94d6fb20489855d3ef19c70e5045f279810652be/Screenshot%202025-07-22%20122737.png)
 
 - **Cancellation-Driven Revenue Loss**: Over ₹299 Million in potential revenue was lost to cancellations within the 3-month period. A staggering 64% of this loss is attributable to last-minute cancellations, signaling flawed booking policies.
 
+![last-minute](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/2c90de8189b96d94fc1a226f60ca57aa1efb77a1/Screenshot%202025-07-22%20121105.png)
 
+- **Underperformance of Premium Assets**: Premium and Presidential rooms, with high ADRs of ₹15,120 and ₹23,440 respectively, contribute over ₹839M combined. However, their occupancy rate (~58-59%) is only marginally better than that of standard rooms. The flat Realization Rate (~70%) across all room types indicates that premium pricing is not translating into better booking commitment or perceived value. The reason can be because guests are not sufficiently incentivized to choose premium offerings. The value proposition is unclear, leading to the underutilization of the hotel's most valuable inventory. This points to a failure in product bundling, marketing, and upselling.
 
+- **Customer & Channel Dynamics**: The "Budget" customer segment (ADR ~₹7,416) is responsible for 47,545 bookings but suffers from a 46% cancellation rate, making it a significant leakage zone. In stark contrast, the "Luxury" segment (ADR ~₹30,903) has a 0% cancellation rate, representing the most reliable customer base. The hotel's flexible booking policies, particularly on OTA platforms like makeyourtrip and tripster, attract a high volume of low-commitment "bargain-hunting" traffic that frequently cancels. The business is paying high commissions to OTAs for low-quality bookings while failing to cultivate its most valuable direct customers. 
