@@ -54,6 +54,6 @@ The company's main database structure, as seen below, consists of four tables:
 - **Introduce Dynamic Cancellation Policies**: Mitigate revenue loss from last-minute cancellations by implementing a tiered cancellation policy. This involves introducing non-refundable or partially refundable rates for bookings cancelled within a 72-hour window before check-in. This strategy disincentivizes speculative bookings from low-commitment customers, particularly from OTA channels, and secures revenue that would otherwise be lost. This policy is projected to recover ₹13.56M in monthly revenue at a 10% uptake.
 - **Drive Direct Bookings to Improve Margins**: Reduce dependency on high-commission OTAs by launching a "Book Direct" campaign. This involves offering exclusive perks—such as free Wi-Fi, meal credits, or loyalty points—to guests who book directly through the hotel's website or app. This shifts booking volume from high-cost channels to a zero-commission direct channel, leading to a direct improvement in profit margins for every converted booking. Shifting just 10% of OTA bookings to direct channels is projected to save ₹15.09M in monthly commission fees. 
 
-
+![Revenue-impact](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/93791d5211e003951abbaa7be1e52d9efde5261a/Screenshot%202025-07-22%20172213.png)
 
 
