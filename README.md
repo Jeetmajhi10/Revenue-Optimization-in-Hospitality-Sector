@@ -46,6 +46,6 @@ The company's main database structure, as seen below, consists of four tables:
 
 - **Property-wise Analysis**: Atliq Exotica and Atliq Palace had the highest total revenue (320M and 304M respectively), with solid RevPAR and stable ADRs. Atliq Blu had the highest occupancy (62.02%) and a low cancellation rate. In contrast, Atliq Seasons had the lowest occupancy (44.62%) and the lowest rating (2.29), indicating poor customer experience and/or demand misalignment.
 
-![Property](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/f8e9d3860efdc9afa3e34042735a9b2345b9dad0/Screenshot%202025-07-22%20163610.png) 
+![Property](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/f8e9d3860efdc9afa3e34042735a9b2345b9dad0/Screenshot%202025-07-22%20163610.png) ![analysis](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/f94d47dbf8b0a915ce895d81267e17cbe8ee914b/Screenshot%202025-07-22%20163648.png)
 
 
