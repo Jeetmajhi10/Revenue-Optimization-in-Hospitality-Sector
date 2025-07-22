@@ -44,6 +44,8 @@ The company's main database structure, as seen below, consists of four tables:
 
 - **Customer & Channel Dynamics**: The "Budget" customer segment (ADR ~₹7,416) is responsible for 47,545 bookings but suffers from a 46% cancellation rate, making it a significant leakage zone. In stark contrast, the "Luxury" segment (ADR ~₹30,903) has a 0% cancellation rate, representing the most reliable customer base. The hotel's flexible booking policies, particularly on OTA platforms like makeyourtrip and tripster, attract a high volume of low-commitment "bargain-hunting" traffic that frequently cancels. The business is paying high commissions to OTAs for low-quality bookings while failing to cultivate its most valuable direct customers.
 
-- **Property-wise Analysis**: Atliq Exotica and Atliq Palace had the highest total revenue (320M and 304M re
-spectively), with solid RevPAR and stable ADRs. Atliq Blu had the highest occupancy (62.02%) and a low cancellation rate. On the contrast, Atliq Seasons had the lowest occupancy (44.62%) and the lowest rating (2.29)—indi
-cating poor customer experience and/or demand misalignment.
+- **Property-wise Analysis**: Atliq Exotica and Atliq Palace had the highest total revenue (320M and 304M respectively), with solid RevPAR and stable ADRs. Atliq Blu had the highest occupancy (62.02%) and a low cancellation rate. In contrast, Atliq Seasons had the lowest occupancy (44.62%) and the lowest rating (2.29), indicating poor customer experience and/or demand misalignment.
+
+![Property](https://github.com/Jeetmajhi10/Revenue-Optimization-in-Hospitality-Sector/blob/f8e9d3860efdc9afa3e34042735a9b2345b9dad0/Screenshot%202025-07-22%20163610.png) 
+
+
